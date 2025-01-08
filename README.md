@@ -1,4 +1,4 @@
-# Chat app
+# Weather app
 
 ## Description
  A weather forecasting app that provides real-time data and forecasts and search functionality
